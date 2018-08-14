@@ -12,6 +12,7 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'stock_quote'
 gem 'sass-rails'
+gem 'font-awesome-rails'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
